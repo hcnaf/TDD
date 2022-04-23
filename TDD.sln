@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeSolver", "TDD\MazeSolver.csproj", "{E3ECB5D9-9925-4E82-89EE-274D0FF939B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeSolver", "MazeSolver\MazeSolver.csproj", "{E3ECB5D9-9925-4E82-89EE-274D0FF939B2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeSolver.Tests", "MazeSolver.Tests\MazeSolver.Tests.csproj", "{29EB4813-9C1B-498D-A2E0-3026ABCD47FA}"
 EndProject
