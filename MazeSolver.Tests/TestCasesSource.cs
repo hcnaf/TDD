@@ -1,9 +1,6 @@
 using System.Collections.Generic;
 using NUnit.Framework;
 
-#pragma warning disable S2368
-#pragma warning disable CA1814
-
 namespace Maze.Tests
 {
     internal class TestCasesSource

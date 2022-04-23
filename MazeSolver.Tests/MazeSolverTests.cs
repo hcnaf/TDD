@@ -3,8 +3,6 @@ using System.Linq;
 using NUnit.Framework;
 
 #pragma warning disable CA1707
-#pragma warning disable S2368
-#pragma warning disable CA1814
 
 namespace Maze.Tests
 {
