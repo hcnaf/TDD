@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLife.Tests", "GameOfL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterShop", "HarryPotterShop\HarryPotterShop.csproj", "{F8F44B74-CD02-4B2D-90E0-7549C9D990E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterShopTests", "HarryPotterShopTests\HarryPotterShopTests.csproj", "{AE34131B-5D1B-4215-9ADD-A15A1515FD6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterShop.Tests", "HarryPotterShopTests\HarryPotterShop.Tests.csproj", "{AE34131B-5D1B-4215-9ADD-A15A1515FD6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

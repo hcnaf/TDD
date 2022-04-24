@@ -14,9 +14,9 @@ namespace HarryPotterShop
     public enum BookPart
     {
         PhilosophersStone = 1,
-        ChamblerOfSecrets,
-        PrisonerOfAzkaban,
-        GobletOfFire,
-        OrderOfThePhoenix
+        ChamblerOfSecrets = 2,
+        PrisonerOfAzkaban = 4,
+        GobletOfFire = 8,
+        OrderOfThePhoenix = 16
     }
 }
